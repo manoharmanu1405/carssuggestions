@@ -9,8 +9,6 @@ The GUI may not be much great but just servers the purpose
 
 The idea of the project is simply as follows:
       ->User first gets to homepage
-      
-      
       ![image](https://user-images.githubusercontent.com/102995814/182066792-15485bc2-5c28-4780-adb6-7c8ba7bad8ed.png)
       
       
