@@ -4,7 +4,7 @@ This is Manohar..
 I have done this project in my B.Tech 2nd year as part of my cirriculum
 This project is simply based on AWT,Swing Components.
 I have managed to design a GUI Application using Java as backend and AWT,Swings serving frontend.
-The GUI may not be much great but just servers the purpose
+The GUI may not be great bcoz i didn't have much time but definitely serves the purpose
 
 
 The idea of the project is simply as follows:
