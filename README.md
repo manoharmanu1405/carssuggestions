@@ -31,8 +31,9 @@ I am simply posting adding some snapshots how the interface looks like
 
 ![image](https://user-images.githubusercontent.com/102995814/182066792-15485bc2-5c28-4780-adb6-7c8ba7bad8ed.png)
 ![image](https://user-images.githubusercontent.com/102995814/182067032-be92bd58-da4a-45ad-a5bf-4397c2c9cc23.png)
-![image](https://user-images.githubusercontent.com/102995814/182067261-65c2a154-d024-4b1f-9ab9-19b79d748281.png)
 ![image](https://user-images.githubusercontent.com/102995814/182067274-e04361a8-fd7e-46bd-ad99-c9ae1989936a.png)
+![image](https://user-images.githubusercontent.com/102995814/182067261-65c2a154-d024-4b1f-9ab9-19b79d748281.png)
+
 
 
 
