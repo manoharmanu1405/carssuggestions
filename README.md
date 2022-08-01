@@ -9,19 +9,11 @@ The GUI may not be much great but just servers the purpose
 
 The idea of the project is simply as follows:
       ->User first gets to homepage
-![image](https://user-images.githubusercontent.com/102995814/182066792-15485bc2-5c28-4780-adb6-7c8ba7bad8ed.png)
-      
-      
+      ![image](https://user-images.githubusercontent.com/102995814/182066792-15485bc2-5c28-4780-adb6-7c8ba7bad8ed.png)
       ->There he can login or signin else skip registration(login enables them to add reviews for the cars and also rate them)
       ->Soon after that they will be redirected to Main Functionality of the app
-      
-      
       ![image](https://user-images.githubusercontent.com/102995814/182067032-be92bd58-da4a-45ad-a5bf-4397c2c9cc23.png)
-      
-      
       ->Here they can select their required features for their cars like below:
-      
-      
       ![image](https://user-images.githubusercontent.com/102995814/182067261-65c2a154-d024-4b1f-9ab9-19b79d748281.png)
       ![image](https://user-images.githubusercontent.com/102995814/182067274-e04361a8-fd7e-46bd-ad99-c9ae1989936a.png)
       
