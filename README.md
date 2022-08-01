@@ -26,7 +26,7 @@ Here i have used all the database configurations for mysql.So anyone who needs t
 The required database tables are cardata,reviews and the schema can observed by inspecting carimage.java,reviews.java files and can create accordingly
 
 
-I am simply posting adding some snapshots how the interface looks like
+I am simply adding some snapshots how the interface looks like
 
 
 ![image](https://user-images.githubusercontent.com/102995814/182066792-15485bc2-5c28-4780-adb6-7c8ba7bad8ed.png)
@@ -37,7 +37,7 @@ I am simply posting adding some snapshots how the interface looks like
 
 
 
-Finally, after doing all the configurations the user can be able to signup,signin,check cars with suitables specs,check and add reviews and ratings and also signed users can have special access to favourites board where they can bookmark their favourite cars.     
+Finally, after doing all the configurations the user can be able to signup,signin,check cars with the selected specs,view and add reviews and ratings and also signed users can have special access to favourites board where they can bookmark their favourite cars.     
                                                 Thanks for reading :)
       
       
